@@ -12,4 +12,5 @@ this repository is used for maintaining the FAIR ( find-able, accessible, inter-
 
 #Introduce
 1.You can use shape_sim.py to calculate the shape similarity between two polygons.
+
 2.The Self_organizing_clustering_process.py can make you to cluster the buildings by the setted similarity threshold.
