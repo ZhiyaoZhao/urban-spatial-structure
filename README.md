@@ -19,5 +19,8 @@ This repository is used for maintaining the FAIR ( find-able, accessible, inter-
 
 3.The main orientation of polygons can be measured by the use of  shape_moment.py.
 
-4.In the paper that we will submit to IJGIS, we proposed five VAU-based spatial metrics, three of them(HBO,CTI,and EOV) can be calculated by the spatial metrics.py. the other spatial metrics are calcualated by the field calculator of attribute table in Arcgis10.3 software.
+4.In the paper that we will submit to IJGIS, we proposed five VAU-based spatial metrics, three of them(HBO,CTI,and EOV) can be calculated by the spatial_metrics.py. the other spatial metrics are calcualated by the field calculator of attribute table in Arcgis10.3 software.
 
+5.The three kinds of social function likelihood can be calculated by social_function_likelihood_formula.py 
+
+6.The difference minimum spanning tree and the difference maximum spanning tree can be constructured by DMIST_and_DMAST.py.
